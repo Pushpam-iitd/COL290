@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\func2.o
+./release\secondwin.o
+./release\op2win.o
+./release\op2win2.o
+./release\gltry1.o
+./release\gltry2.o
+./release\moc_mainwindow.o
+./release\moc_secondwin.o
+./release\moc_op2win.o
+./release\moc_op2win2.o
+./release\moc_gltry1.o
+./release\moc_gltry2.o
+);
